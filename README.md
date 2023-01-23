@@ -1,3 +1,9 @@
+#Project aim:
+
+This project has the purpuse of serving the automotive and service comunnity.
+
+The administrator who will moderate the site.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
